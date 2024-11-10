@@ -1,9 +1,9 @@
 # sql-minute
 
-Test database for learning. Taken from 
-https://github.com/datacharmer/test_db
+Fake data SQL database - employees, salaries, departments. Useful for learning SQL, pet projects and learning. 
 
-Updated field types, added keys, updated birthdays and salaries, added geography.
+Data taken from https://github.com/datacharmer/test_db
+Updated field types, added keys, updated birthdays and salaries, added geography, updated start-end dates to match, applied some geo-dependent changes.
 
 LICENSE
 =
